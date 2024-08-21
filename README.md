@@ -257,3 +257,7 @@ python3 scripts/h3_info.py 609623381666430975
 ![h3_index](./assets/h3_index.png)
 
 
+
+## Conclusion
+
+By checking the `validated` field of the Validator and querying the location information of the miner, this data can be used as a location proof for the targeted object. This serves as a foundation for further developing applications based on the obtained location verification.
