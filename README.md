@@ -2,7 +2,7 @@
 
 This demonstration showcases a potential solution for verifying the location of an item using Moonchain and ChirpVM. It operates under the assumption that the target item is equipped with an NFC tag, which the Validator device will detect and authenticate by checking the tag's presence and verifying its content.
 
-To carry out this demonstration, you will need an X2E device with an NFC reader and an OLED display, hereafter referred to as the "Validator." For detailed information on the required hardware setup, please refer to [this link](https://gitlab.com/matchx/x2e_reference_sensor/x2e_ref-firmware/-/tree/main/ntag_validator).
+To carry out this demonstration, you will need an X2E device with an NFC reader and an OLED display, hereafter referred to as the "Validator." For detailed information on the required hardware setup, please refer to [this link](https://github.com/MatchX-GmbH/X2E-Reference-Sensor-FW/tree/main/ntag_validator).
 
 
 
